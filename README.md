@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaRajpu456
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently doing Web Development
 - 💞️ I’m looking to collaborate on making project
 - 📫 How to reach me
 - 😄 Pronouns: ...
